@@ -1,0 +1,10 @@
+# compiled binaries
+task1/qsort
+task2/func_ptr
+
+# logs and zips
+*.log
+*.zip
+
+# macOS junk
+.DS_Store
